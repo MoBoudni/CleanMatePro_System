@@ -1,0 +1,32 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+/target/
+build/
+
+# Eclipse
+.metadata
+bin/
+.project
+.classpath
+.settings/
+
+# IDEs
+.idea/
+*.swp
+*.swo
+
+# DB & Persistenz
+*.db
+*.sqlite
+resources/db/*.db
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
